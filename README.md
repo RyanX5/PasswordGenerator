@@ -10,6 +10,6 @@ pip setup.py install
 
 import passwordgeneratorrohan as password
 
-minLength = 8
+minLength = 8\n
 maxLength = 15
 print(password.GeneratePassword(8, 15))
