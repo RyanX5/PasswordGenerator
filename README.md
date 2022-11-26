@@ -20,6 +20,10 @@ maxLength = 15
 print(password.GeneratePassword(minLength, maxLength))
 ```
 
+```python
+'m9t7c935b'
+```
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
